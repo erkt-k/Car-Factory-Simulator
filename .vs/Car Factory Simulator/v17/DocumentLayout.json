@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erktk\\Car Factory Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|c:\\users\\erktk\\car factory simulator\\assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|C:\\Users\\erktk\\Car Factory Simulator\\assets\\scripts\\car manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|C:\\Users\\erktk\\Car Factory Simulator\\assets\\scripts\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|C:\\Users\\erktk\\Car Factory Simulator\\assets\\scripts\\ui manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557E750-672D-65FC-A815-4EB9736D6AB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI Manager.cs",
+              "DocumentMoniker": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\UI Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Manager.cs",
+              "ToolTip": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\UI Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Manager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvycAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:09:30.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParkingSpot.cs",
+              "DocumentMoniker": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\ParkingSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParkingSpot.cs",
+              "ToolTip": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\ParkingSpot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParkingSpot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:46:37.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car Manager.cs",
+              "DocumentMoniker": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\Car Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car Manager.cs",
+              "ToolTip": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\Car Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:42:27.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game Manager.cs",
+              "DocumentMoniker": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\Game Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager.cs",
+              "ToolTip": "C:\\Users\\erktk\\Car Factory Simulator\\Assets\\Scripts\\Game Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Manager.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwJgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:36:09.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
